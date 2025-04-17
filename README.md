@@ -5,6 +5,7 @@ Testing Llama Index Evaluation Tools and providing insights regarding performanc
 Environemnt: Local 
 Model: Ollama ( llama3.1)
 Non Rag and Rag Both
+
 Installations:
 
 1. Install Ollama first from browser.
